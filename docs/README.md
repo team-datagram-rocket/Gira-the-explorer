@@ -2,9 +2,10 @@
 
 
 **OUR PRODUCT**
+
 _A web application game based on a dynamic street view map where you guess your location and answer quiz questions_
 
-# The team consists of:
+The team consists of:
 - Gustaf Halvardsson - product owner
 - Johanna Peterson - scrum master
 - Eleonora Borzi
@@ -14,24 +15,18 @@ _A web application game based on a dynamic street view map where you guess your 
 - Mattias Stahre
 
 
+# Sprint 1 planning
 
-### Markdown
+# Sprint 2 planning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Sprint 3 planning
 
-```markdown
-Syntax highlighted code block
+# Sprint 4 planning
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### **DO YOU WANT TO PLAY????**
+## Press here for surprise -> [Link](https://www.google.com)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```For questions, contact the scrum master at jpet6@kth.se
+ ![Image](src)
