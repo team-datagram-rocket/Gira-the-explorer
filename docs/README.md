@@ -28,5 +28,5 @@ The team consists of:
 ### **DO YOU WANT TO PLAY????**
 ## Press here for surprise -> [Link](https://www.google.com)
 
-```For questions, contact the scrum master at jpet6@kth.se
+For questions, contact the scrum master at jpet6@kth.se
  ![Image](src)
