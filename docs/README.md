@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Datagram
 
 You can use the [editor on GitHub](https://github.com/team-datagram-rocket/The-Product/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
