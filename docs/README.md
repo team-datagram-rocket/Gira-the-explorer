@@ -27,4 +27,4 @@ The team consists of:
 ## Press here for surprise -> [Link](https://www.google.com)
 
 For questions, contact the scrum master at jpet6@kth.se
-![Image](/images/koala.jpg)
+![Image](./images/koala.jpg)
