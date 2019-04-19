@@ -1,11 +1,11 @@
 ## Welcome to Datagram - rocket
 
-
 **OUR PRODUCT**
 
 _A web application game based on a dynamic street view map where you guess your location and answer quiz questions_
 
 The team consists of:
+
 - Gustaf Halvardsson - product owner
 - Johanna Peterson - scrum master
 - Eleonora Borzi
@@ -13,7 +13,6 @@ The team consists of:
 - Emma Lind
 - Johanna Lundkvist
 - Mattias Stahre
-
 
 # Sprint 1 planning
 
@@ -23,10 +22,9 @@ The team consists of:
 
 # Sprint 4 planning
 
-
-
 ### **DO YOU WANT TO PLAY????**
+
 ## Press here for surprise -> [Link](https://www.google.com)
 
 For questions, contact the scrum master at jpet6@kth.se
- ![Image](src)
+![Image](/images/koala.jpg)
