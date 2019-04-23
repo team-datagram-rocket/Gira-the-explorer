@@ -20,6 +20,7 @@ The team consists of:
 **End date:** 29th of April
 
 **Sprint goal: Welcome screen + street view of level 1**
+
 Sprint goal better described: _“By visiting a domain name, you should reach our application, with the polished front end (polished backend logic is not required) welcome screen. Clicking button takes you to a non-polished screen where Google Maps is displayed full screen (implying you have a established a connection correctly with the API)._
 
 The **Sprint Demo** for sprint 1 is on the 29th of April at 08:15-10:00 in Ka-Sal B. 
