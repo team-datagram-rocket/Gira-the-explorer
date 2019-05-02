@@ -4,8 +4,6 @@
 
 _A web application game based on a dynamic street view map where you guess your location and answer quiz questions_
 
-### **DO YOU WANT TO PLAY????** [Link](https://www.gira-the-explorer.netlify.com)
-
 The team consists of:
 
 - Gustaf Halvardsson - product owner
@@ -15,6 +13,10 @@ The team consists of:
 - Emma Lind
 - Johanna Lundkvist
 - Mattias Stahre
+
+
+## **DO YOU WANT TO PLAY????** [Link](https://www.gira-the-explorer.netlify.com)
+
 
 # Sprint 1
 **Start date:** 23rd of April
