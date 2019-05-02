@@ -4,6 +4,8 @@
 
 _A web application game based on a dynamic street view map where you guess your location and answer quiz questions_
 
+### **DO YOU WANT TO PLAY????** [Link](https://www.gira-the-explorer.netlify.com)
+
 The team consists of:
 
 - Gustaf Halvardsson - product owner
@@ -76,9 +78,6 @@ Names of stories accepted for this sprint: (listed in order of priority)
 Time and place for the daily scrum:
 Sprint goal: 
 
-### **DO YOU WANT TO PLAY????**
-
-## Press here for surprise -> [Link](https://www.gira-the.explorer.netlify.com)
 
 For questions, contact the scrum master at jpet6@kth.se
 ![Image](./images/koala.jpg)
