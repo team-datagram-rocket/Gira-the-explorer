@@ -61,7 +61,7 @@ Quizzes level 2
 
 
 Time and place for the **daily scrum**:
-Room Ka-303 08:30
+Room Ka-303 08:15
 
 
 # Sprint 3 
