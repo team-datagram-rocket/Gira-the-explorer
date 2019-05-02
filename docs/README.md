@@ -36,12 +36,29 @@ Room Ka-303 at 08:30
 
 
 # Sprint 2 
-Start date: 2nd of May
-End date: 8th of May
-The Sprint Demo for sprint 1 is on the 8th of May at 08:15-10:00 in Ka-Sal B. 
-Names of stories accepted for this sprint: (listed in order of priority)
-Time and place for the daily scrum:
-Sprint goal: 
+**Start date:** 2nd of May
+
+**End date:** 8th of May
+
+**Sprint goal: Level 1 finished and come to quizzes level 2 **
+
+Sprint goal better described: _“Buttons and status information shown on level 1. All 3 modals with answer alternatives are followed when pressing "Submit your answer". You answer what continent, country and area in which you think you are and you get a specific answer based on the 3 answers. Furthermore, a score board is shown followed by information about level 2. Then a quiz question and 4 answer alternatives are shown based on your location and you can press on a button to submit your answer"._
+
+The **Sprint Demo** for sprint 2 is on the 8th of May at 08:15-10:00 in Ka-Sal B. 
+
+Names of **stories** accepted for this sprint: (listed in order of priority)
+User Interface (UI) elements level 1
+Guess your answer level 1
+Score per answer level 1
+Score board level 1
+Come to screen level 2
+Quizzes level 2
+(Animoji and End screen stories deleted due to overlapping)
+
+
+Time and place for the **daily scrum**:
+Room Ka-303 08:30
+
 
 # Sprint 3 
 Start date: 9th of May
@@ -61,7 +78,7 @@ Sprint goal:
 
 ### **DO YOU WANT TO PLAY????**
 
-## Press here for surprise -> [Link](https://www.google.com)
+## Press here for surprise -> [Link](https://www.gira-the.explorer.netlify.com)
 
 For questions, contact the scrum master at jpet6@kth.se
 ![Image](./images/koala.jpg)
