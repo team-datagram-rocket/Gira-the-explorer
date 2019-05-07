@@ -48,7 +48,7 @@ Room Ka-303 at 08:30
 
 Sprint goal better described: _“Buttons and status information shown on level 1. All 3 modals with answer alternatives are followed when pressing "Submit your answer". You answer what continent, country and area in which you think you are and you get a specific answer based on the 3 answers. Furthermore, a score board is shown followed by information about level 2. Then a quiz question and 4 answer alternatives are shown based on your location and you can press on a button to submit your answer"._
 
-The **Sprint Demo** for sprint 2 is on the 8th of May at 08:15-10:00 in Ka-Sal B. 
+The **Sprint Demo** for sprint 2 is on the 8th of May at 08:15-10:00 in Ka-Sal A. 
 
 Names of **stories** accepted for this sprint: (listed in order of priority)
 User Interface (UI) elements level 1
