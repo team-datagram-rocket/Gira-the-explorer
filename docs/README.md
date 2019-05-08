@@ -65,20 +65,40 @@ Room Ka-303 08:15
 
 
 # Sprint 3 
-Start date: 9th of May
-End date: 15th of May
-The Sprint Demo for sprint 3 is on the 15th of May at 08:15-10:00 in Ka-Sal B. 
-Names of stories accepted for this sprint: (listed in order of priority)
-Time and place for the daily scrum:
-Sprint goal: 
+**Start date:** 9th of May
+
+**End date:** 15th of May
+
+**Sprint goal: xxx **
+
+Sprint goal better described: _xxx _
+
+The **Sprint Demo** for sprint 3 is on the 15th of May at 08:15-10:00 in Ka-Sal B. 
+
+Names of **stories** accepted for this sprint: (listed in order of priority)
+
+
+Time and place for the **daily scrum**:
+Room Ka-303 08:15
+
 
 # Sprint 4 
-Start date: 16th of May
-End date: 22nd of May
-The Sprint Demo for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal B. 
-Names of stories accepted for this sprint: (listed in order of priority)
-Time and place for the daily scrum:
-Sprint goal: 
+**Start date:** 16th of May
+
+**End date:** 22nd of May
+
+**Sprint goal: xxx **
+
+Sprint goal better described: _xxx _
+
+The **Sprint Demo** for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal B. 
+
+
+Names of **stories** accepted for this sprint: (listed in order of priority)
+
+
+Time and place for the **daily scrum**:
+Ka-303 08:15
 
 
 For questions, contact the scrum master at jpet6@kth.se
