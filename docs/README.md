@@ -101,5 +101,7 @@ Time and place for the **daily scrum**:
 Ka-303 08:15
 
 
-For questions, contact the scrum master at jpet6@kth.se
+
+
+**For questions, contact the scrum master at jpet6@kth.se**
 ![Image](./images/koala.jpg)
