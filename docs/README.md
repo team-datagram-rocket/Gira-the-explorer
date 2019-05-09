@@ -69,13 +69,18 @@ Room Ka-303 08:15
 
 **End date:** 15th of May
 
-**Sprint goal: xxx **
+**Sprint goal: Level 2 finished and the whole game is mobile adjusted and polished **
 
-Sprint goal better described: _xxx _
+Sprint goal better described: _The quiz part is finished including skeleton loading and logic for 2 questions. A scoreboard is shown with your specific score after the 2 questions followed by "Starting a new game" and thus keeping the score and your name or "End game" and arrive at an end screen. The whole game works on a mobile screen and looks good :) . _
 
-The **Sprint Demo** for sprint 3 is on the 15th of May at 08:15-10:00 in Ka-Sal B. 
+The **Sprint Demo** for sprint 3 is on the 15th of May at 08:15-10:00 in (Ka-Sal B). 
 
 Names of **stories** accepted for this sprint: (listed in order of priority)
+Quizzes level 2. 
+Score per answer level 2.
+Scoreboard level 2. 
+End screen.
+Mobile adjustments and responsive application (new story). 
 
 
 Time and place for the **daily scrum**:
