@@ -96,7 +96,7 @@ Room Ka-303 08:15
 
 Sprint goal better described: _On welcome screen you can decide to log in with facebook and then on the end screen you can compare with your friends scores (or as before if you decide to log in traditionally). All street view locations are randomized. The 3 rounds' quizzes are separated into easy, medium, hard. The new score system is that you get a specific score based on how far away from the specific country you guessed at. You can only use x number of hints. Polished user experience means music and new screen outline for street view. If research suggests it, we move from hosting on netlify to firebase._
 
-The **Sprint Demo** for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal A. 
+The **Sprint Demo** for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal B. 
 
 
 Names of **stories** accepted for this sprint: (listed in order of priority)
