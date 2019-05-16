@@ -73,7 +73,7 @@ Room Ka-303 08:15
 
 Sprint goal better described: _The quiz part is finished including skeleton loading and logic for 2 questions. A scoreboard is shown with your specific score after the 2 questions followed by "Starting a new game" and thus keeping the score and your name or "End game" and arrive at an end screen. The whole game works on a mobile screen and looks good :) . _
 
-The **Sprint Demo** for sprint 3 is on the 15th of May at 08:15-10:00 in (Ka-Sal B). 
+The **Sprint Demo** for sprint 3 is on the 15th of May at 08:15-10:00 in (Ka-Sal A). 
 
 Names of **stories** accepted for this sprint: (listed in order of priority)
 Quizzes level 2. 
@@ -92,18 +92,27 @@ Room Ka-303 08:15
 
 **End date:** 22nd of May
 
-**Sprint goal: xxx **
+**Sprint goal: Facebook integration, randomized street view location, improved score system and polished user experience. **
 
-Sprint goal better described: _xxx _
+Sprint goal better described: _On welcome screen you can decide to log in with facebook and then on the end screen you can compare with your friends scores (or as before if you decide to log in traditionally). All street view locations are randomized. The 3 rounds' quizzes are separated into easy, medium, hard. The new score system is that you get a specific score based on how far away from the specific country you guessed at. You can only use x number of hints. Polished user experience means music and new screen outline for street view. If research suggests it, we move from hosting on netlify to firebase._
 
-The **Sprint Demo** for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal B. 
+The **Sprint Demo** for sprint 4 is on the 22nd of May at 08:15-10:00 in Ka-Sal A. 
 
 
 Names of **stories** accepted for this sprint: (listed in order of priority)
+Log in/other
+Randomize street view location
+Highscore (new)
+Difficulty quizzes (new)
+Distance points per country (new)
+Limited no. of hints (new)
+Music (new)
+Gira/other animoji on screen (new)
+Move to firebase (new)
 
 
 Time and place for the **daily scrum**:
-Ka-303 08:15
+Ka-303 08:05
 
 
 
