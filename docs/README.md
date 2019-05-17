@@ -1,6 +1,7 @@
-## Welcome to Datagram - rocket
+# Welcome to Datagram - rocket
 
-**OUR PRODUCT**
+
+## The Product
 
 _A web application game based on a dynamic street view map where you guess your location and answer quiz questions_
 
@@ -15,10 +16,42 @@ The team consists of:
 - Mattias Stahre
 
 
+## Node Packages used in our project
+
+From our package.json file
+
+**Dependencies**
+
+```
+    "axios": "^0.18.0",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-modal": "^3.8.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "react-streetview": "^1.1.1",
+    "react-world-map": "^1.0.13",
+    "firebase": "4.8.0"
+```
+
+**Scripts**
+
+```
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+```
+
+All packages and scripts can be found at npmjs.com
+
 ## **DO YOU WANT TO PLAY????** [Link](https://www.gira-the-explorer.netlify.com)
 
+# Sprints
 
-# Sprint 1
+## Sprint 1
 **Start date:** 23rd of April
 
 **End date:** 29th of April
@@ -39,7 +72,7 @@ Room Ka-303 at 08:30
 
 
 
-# Sprint 2 
+## Sprint 2 
 **Start date:** 2nd of May
 
 **End date:** 8th of May
@@ -64,7 +97,7 @@ Time and place for the **daily scrum**:
 Room Ka-303 08:15
 
 
-# Sprint 3 
+## Sprint 3 
 **Start date:** 9th of May
 
 **End date:** 15th of May
@@ -87,7 +120,7 @@ Time and place for the **daily scrum**:
 Room Ka-303 08:15
 
 
-# Sprint 4 
+## Sprint 4 
 **Start date:** 16th of May
 
 **End date:** 22nd of May
