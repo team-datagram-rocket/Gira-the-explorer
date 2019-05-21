@@ -151,4 +151,4 @@ Ka-303 08:05
 
 
 **For questions, contact the scrum master at jpet6@kth.se**
-![Image](./images/koala.jpg)
+
